@@ -12,3 +12,8 @@ This project is a CRUD RESTful API for managing telemetry data for NWU Tech Tren
 2. Open the solution in Visual Studio.
 3. Set up the database using the provided SQL script.
 4. Run the project to start the API.
+
+## Implemented Features
+- User Authentication
+- CRUD Operations for Telemetry Data
+- JWT Token Generation
